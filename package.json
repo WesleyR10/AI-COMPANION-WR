@@ -29,7 +29,7 @@
     "clsx": "^2.1.1",
     "langchain": "^0.0.92",
     "lucide-react": "^0.378.0",
-    "next": "14.2.3",
+    "next": "14.2.21",
     "next-cloudinary": "^6.5.2",
     "next-themes": "^0.3.0",
     "openai-edge": "^1.2.2",
